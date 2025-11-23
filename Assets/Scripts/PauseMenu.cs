@@ -5,14 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-    public GameObject background;
+    public GameObject pauseUI;
     public GameObject pauseButton;
 
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            background.SetActive(true);
+            pauseUI.SetActive(true);
             pauseButton.SetActive(false);
             Time.timeScale = 0;
         }
@@ -20,21 +20,21 @@ public class PauseMenu : MonoBehaviour
 
     public void PauseButton()
     {
-        background.SetActive(true);
+        pauseUI.SetActive(true);
         pauseButton.SetActive(false);
         Time.timeScale = 0;
     }
 
     public void ResumeButton()
     {
-        background.SetActive(false);
+        pauseUI.SetActive(false);
         pauseButton.SetActive(true);
         Time.timeScale = 1;
     }
 
     public void RestartButton()
     {
-        background.SetActive(false);
+        pauseUI.SetActive(false);
         pauseButton.SetActive(true);
         Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
