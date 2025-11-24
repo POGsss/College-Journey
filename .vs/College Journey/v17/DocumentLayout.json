@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Files\\Programs\\unity\\College Journey\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\WinMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WinMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\Diploma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Diploma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\ChangeScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WinMenu.cs",
+              "DocumentMoniker": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\WinMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WinMenu.cs",
+              "ToolTip": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\WinMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WinMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T14:52:19.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Diploma.cs",
+              "DocumentMoniker": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\Diploma.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Diploma.cs",
+              "ToolTip": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\Diploma.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Diploma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T11:40:38.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PauseMenu.cs",
               "DocumentMoniker": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\PauseMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
               "ToolTip": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\PauseMenu.cs",
               "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T18:02:50.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PlayerAnimationLoader.cs",
               "DocumentMoniker": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\PlayerAnimationLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimationLoader.cs",
@@ -55,12 +89,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerAnimationLoader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:08:45.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T16:08:45.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -68,12 +101,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T14:53:24.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T14:53:24.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PlayerPreviewManager.cs",
               "DocumentMoniker": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\PlayerPreviewManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPreviewManager.cs",
@@ -81,12 +113,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerPreviewManager.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T12:12:55.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T12:12:55.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ChangeScene.cs",
               "DocumentMoniker": "D:\\Files\\Programs\\unity\\College Journey\\Assets\\Scripts\\ChangeScene.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeScene.cs",
@@ -94,8 +125,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ChangeScene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T14:35:41.929Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T14:35:41.929Z"
             }
           ]
         }
